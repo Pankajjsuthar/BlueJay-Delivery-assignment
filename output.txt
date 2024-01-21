@@ -1,0 +1,36 @@
+The employees who worked for 7 consecutive days :
+
+Sparks, KeWWeMh, WFS000101
+
+SiWgh, JaspreeM, WFS000424
+
+CEreira Jr, JEse, WFS000456
+
+GAeWdia, JAaW CarXEs, WFS000473
+
+The employees who have less than 10 hours of time between shifts but greater than 1 hour :
+
+CaMaXaWE, CeghaW, WFS000153
+
+Xee, XaCar, WFS000200
+
+De Xa Cerda, IgWaciE, WFS000318
+
+MraW, WiXXiaC Ha, WFS000345
+
+CEreira Jr, JEse, WFS000456
+
+DeXgadiXXE REdarMe, ChrisMiaW S, WFS000523
+
+HaCiXMEW, DeaWMe DevEW, WFS000536
+
+REdrigAez, GraWdEW AWgeX, WFS000550
+
+The employees who have worked for more than 14 hours in a single shift : 
+
+DeXgadiXXE REdarMe, ChrisMiaW S, WFS000523
+
+The employees who have worked for more than 14 hours in a single day :
+
+DeXgadiXXE REdarMe, ChrisMiaW S, WFS000523
+
