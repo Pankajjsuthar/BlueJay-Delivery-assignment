@@ -36,14 +36,14 @@ This program is designed to analyze a given Excel file containing employee timec
 4. **Run the script:**
 
     ```bash
-    node script.js
+    node index.js
     ```
 
 5. **Check the console output for the identified employees and review the `output.txt` file in the project directory.**
 
 ## Code Structure
 
-- **script.js**: The main script file that performs the analysis on the Excel data.
+- **index.js**: The main script file that performs the analysis on the Excel data.
 - **output.txt**: Contains the console output of the program.
 
 ## Assumptions
@@ -64,4 +64,4 @@ This program is designed to analyze a given Excel file containing employee timec
 
 ## Contact Information
 
-For any questions or concerns, please contact [Your Name] at [Your Email].
+For any questions or concerns, please contact Pankaj Suthar at psuthar27302@gmail.com 
